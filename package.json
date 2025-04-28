@@ -1,5 +1,5 @@
 {
-  "name": "react-infinite-table",
+  "name": "react-infinite-table-one-row-supprt",
   "version": "1.3.0",
   "description": "React table with infinite rows and much more!  - custom version with 1-row fix",
   "main": "dist/commonjs/index.js",
